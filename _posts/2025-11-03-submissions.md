@@ -44,7 +44,7 @@ We would also like to note:
 The full devroom program is available at <a href="https://fosdem.org/2019/schedule/track/hpc,_big_data_and_data_science/">https://fosdem.org/2019/schedule/track/hpc,_big_data_and_data_science/</a>.</strong>.</p>
 -->
 
-<strong>When submitting your talk in the FOSDEM submission system, make sure to select the 'HPC, Big Data,
+<strong>When submitting your talk in the FOSDEM submission system, make sure to select the 'HPC, Big Data
 &amp; Data Science Devroom' as the 'Track'.</strong>
 
 <em>If you already have an account from a previous FOSDEM edition, please reuse it</em>.<br/>
