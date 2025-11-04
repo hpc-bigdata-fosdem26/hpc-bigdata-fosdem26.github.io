@@ -9,8 +9,8 @@ icon-title: true
 
 We invite presenters to submit talk proposals to present high-quality work with sufficient background
 material to be clear to the HPC, Big Data, and/or Data Science communities.
-Talk proposals should be submitted through the official FOSDEM'25 submission system:
-[https://pretalx.fosdem.org/fosdem-2025/cfp](https://pretalx.fosdem.org/fosdem-2025/cfp).
+Talk proposals should be submitted through the official FOSDEM'26 submission system:
+[https://pretalx.fosdem.org/fosdem-2026/cfp](https://pretalx.fosdem.org/fosdem-2026/cfp).
 
 Submissions must include:
 
@@ -25,14 +25,14 @@ Our intention is to have a series of talks of about 20 minutes each, with an add
 We would also like to note:
 
 - All accepted talks will be about (using) free and open source software.<br/>We highly discourage "marketing" talks.
-- All talks will be given *in-person* at FOSDEM in Brussels, on Sunday 2 February 2025.<br/>
+- All talks will be given *in-person* at FOSDEM in Brussels, on Sunday 1 February 2026.<br/>
   <strong>Please take this into account when submitting your talk.</strong><br/>
   Remote or pre-recorded presentations will unfortunately not be possible.
 
 <div style="text-align:center;">
   <p>
     <span style="font-size:20px;">
-      <a href="https://pretalx.fosdem.org/fosdem-2025/cfp">
+      <a href="https://pretalx.fosdem.org/fosdem-2026/cfp">
         <i class="fa fa-sign-in">&nbsp;<b>Click here to submit a talk proposal!</b></i>
       </a>
     </span>

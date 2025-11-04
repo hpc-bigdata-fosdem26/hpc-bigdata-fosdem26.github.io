@@ -24,4 +24,4 @@ Devroom volunteers:
 * Alan Sill ([Texas Tech University](https://www.ttu.edu/), US)
 -->
 
-Please, take a moment to read the [FOSDEM Code of Conduct](https://fosdem.org/2025/practical/conduct/).
+Please, take a moment to read the [FOSDEM Code of Conduct](https://fosdem.org/2026/practical/conduct/).
