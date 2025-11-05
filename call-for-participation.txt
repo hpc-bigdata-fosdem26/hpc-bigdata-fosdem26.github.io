@@ -11,7 +11,7 @@ Devroom date: Sunday 1 Feb 2026
 
 
 We are proud to announce the 11th edition of the HPC, Big Data and Data Science devroom at FOSDEM 2026 in Brussels (Belgium),
-or the 12th edution if you count the "pure" HPC devroom at FOSDEM'12 as the first one.
+or the 12th edition if you count the "pure" HPC devroom at FOSDEM'12 as the first one.
 
 It is organised by representatives of the HPC, Big Data, and Data Science communities, who are joining forces to bring them together.
 
