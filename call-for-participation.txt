@@ -1,30 +1,31 @@
-HPC, Big Data, and Data Science Devroom at FOSDEM'25
+HPC, Big Data, and Data Science Devroom at FOSDEM'26
 ====================================================
 
-https://hpc-bigdata-fosdem25.github.io - https://fosdem.org/2025
+https://hpc-bigdata-fosdem26.github.io - https://fosdem.org/2026
 
 ** Call for Participation **
 
-Submission deadline: Sunday 1 Dec 2024
-Devroom schedule available: Sunday 15 Dec 2024
-Devroom date: Sunday 2 Feb 2025
+Submission deadline: Monday 1 Dec 2025
+Devroom schedule available: Monday 15 Dec 2025
+Devroom date: Sunday 1 Feb 2026
 
 
-We are proud to announce the *10th* edition of the HPC, Big Data and Data Science devroom at FOSDEM 2025 in Brussels (Belgium), or the 11th if you count the "pure" HPC devroom at FOSDEM'12 as the first one.
+We are proud to announce the 11th edition of the HPC, Big Data and Data Science devroom at FOSDEM 2026 in Brussels (Belgium),
+or the 12th edution if you count the "pure" HPC devroom at FOSDEM'12 as the first one.
 
 It is organised by representatives of the HPC, Big Data, and Data Science communities, who are joining forces to bring them together.
 
-The devroom will take place during the FOSDEM'25 weekend, on Sunday 2 February 2024, and is open for everybody to join (no registration required).
+The devroom will take place during the FOSDEM'26 weekend, on Sunday 1 February 2026, and is open for everybody to join (no registration required).
 
 Join us to enjoy a variety of talks, demos and interesting discussions on open-source HPC, Big Data, and Data Science.
 
 
-Sounds interesting? Submit your talk proposal, and see you at FOSDEM'25!
+Sounds interesting? Submit your talk proposal, and see you at FOSDEM'26!
 
 Submissions are lightweight: basically talk title + short description, plain text.
 
 
-Please visit the website https://hpc-bigdata-fosdem25.github.io/ for more information, and consider sharing this call for participation with friends and colleagues.
+Please visit the website https://hpc-bigdata-fosdem26.github.io/ for more information, and consider sharing this call for participation with friends and colleagues.
 
 Contact us via email at hpc-bigdata-devroom@lists.fosdem.org with questions or concerns.
 
