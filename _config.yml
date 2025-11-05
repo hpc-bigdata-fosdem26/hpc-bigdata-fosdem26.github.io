@@ -14,10 +14,10 @@ highlighter: rouge
 
 
 ### content configuration ###
-title:       "FOSDEM'25 HPC, Big Data, and Data Science Devroom"
+title:       "FOSDEM'26 HPC, Big Data, and Data Science Devroom"
 keywords:    "hpc, big data, data science"
-description: "FOSDEM'25 HPC, Big Data, and Data Science Devroom"
-source_link: "https://github.com/hpc-bigdata-fosdem25/hpc-bigdata-fosdem25.github.io"
+description: "FOSDEM'26 HPC, Big Data, and Data Science Devroom"
+source_link: "https://github.com/hpc-bigdata-fosdem26/hpc-bigdata-fosdem26.github.io"
 favicon:     "img/favicon.ico"
 
 
